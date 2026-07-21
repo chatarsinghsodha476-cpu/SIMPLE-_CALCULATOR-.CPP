@@ -1,4 +1,4 @@
-# SIMPLE-_CALCULATOR-.CPP
+# Simple-calculator-cpp
 A simple calculator program written in C++ that performs basic arithmetic operations.
 # Simple Calculator in C++
 
